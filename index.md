@@ -48,7 +48,7 @@ Dynamic Detection of AsyncTask Related Defects. QRS 2021: 357-366
 
 [C3] Xin Zhang, Jiwei Yan, **Baoquan Cui**, Jun Yan, Jian Zhang:  
 Are the Scala Checks Effective? Evaluating Checks with Real-world Projects. QRS 2021: 978-989   
-[[PDF](papers/cbq/QRS2021%20Are_the_Scala_Checks_Effective_Evaluating_Checks_with_Real-world_Projects.pdf)] [[Bibtex Cited Format](https://dblp.org/rec/conf/qrs/ZhangYCYZ21.html?view=bibtex)]
+[[PDF](papers/cbq/QRS2021%20Are_the_Scala_Checks_Effective_Evaluating_Checks_with_Real-world_Projects.pdf)] [[Slides](papers/SlidesQRS2021Scala.pdf)][[Bibtex Cited Format](https://dblp.org/rec/conf/qrs/ZhangYCYZ21.html?view=bibtex)]
 
  
 ###  2020  
