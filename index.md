@@ -39,7 +39,7 @@ String Test Data Generation for Java Programs. ISSRE 2022: 251-262
 
 [C5] Xin Zhang, Rongjie Yan, Jiwei Yan, **Baoquan Cui**, Jun Yan, Jian Zhang:  
 ExcePy: A Python Benchmark for Bugs with Python Built-in Types. SANER 2022: 856-866   
-[[PDF](papers/cbq/SANER2022%20ExcePy_A_Python_Benchmark_for_Bugs_with_Python_Built-in_Types.pdf)] [[Project of ExcePy](https://github.com/Stardust1225/ExcePy_Present)] [[Bibtex Cited Format](https://dblp.org/rec/conf/wcre/ZhangYYCYZ22.html?view=bibtex)]
+[[PDF](papers/cbq/SANER2022%20ExcePy_A_Python_Benchmark_for_Bugs_with_Python_Built-in_Types.pdf)] [[Poster of ExcePy](papers/SlidesSANER2022ExecPy.pdf)][[Project of ExcePy](https://github.com/Stardust1225/ExcePy_Present)] [[Bibtex Cited Format](https://dblp.org/rec/conf/wcre/ZhangYYCYZ22.html?view=bibtex)]
 
 ###  2021 
 [C4] Qing Liu, Linjie Pan, **Baoquan Cui**, Jun Yan, Jian Zhang:  
