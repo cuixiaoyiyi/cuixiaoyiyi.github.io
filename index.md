@@ -30,7 +30,7 @@ Detection of Java Basic Thread Misuses Based on Static Event Analysis. ASE 2023:
 
 [C7] Fuqi Jia, Rui Han, Xutong Ma, **Baoquan Cui**, Minghao Liu, Pei Huang, Feifei Ma, Jian Zhang:  
 PSMT: Satisfiability Modulo Theories Meets Probability Distribution. ASE 2023: 1756-1760  
-[[PDF](papers/cbq/ASE2023%20PSMT%20Satisfiability%20Modulo%20Theories%20Meets%20Probability%20Distribution.pdf)] [[Bibtex Cited Format](https://dblp.org/rec/conf/kbse/JiaHMCLHMZ23.html?view=bibtex)]
+[[PDF](papers/cbq/ASE2023%20PSMT%20Satisfiability%20Modulo%20Theories%20Meets%20Probability%20Distribution.pdf)] [[Slides](papers/SlidesASE2023PSMT.pdf)][[Bibtex Cited Format](https://dblp.org/rec/conf/kbse/JiaHMCLHMZ23.html?view=bibtex)]
 
 ###  2022
 [C6] Miaomiao Wang, **Baoquan Cui (Contributed Equally)**, Jiwei Yan, Jun Yan, Jian Zhang:  
@@ -59,4 +59,4 @@ Static asynchronous component misuse detection for Android applications. ESEC/SI
 ###  2019 
 [C1] Linjie Pan, **Baoquan Cui**, Jiwei Yan, Xutong Ma, Jun Yan, Jian Zhang:  
 Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android. ISSTA 2019: 394-397   
-[[PDF](papers/cbq/ISSTA2019%20Androlic-%20An%20Extensible%20Flow%2C%20Context%2C%20Object%2C%20Field%2C%20and%20Path-Sensitive%20Static%20Analysis%20Framework%20for%20Android.pdf)] [[Slides](papers/Slides2024ISSTA-DMMPP.pdf)] [[Project of Androlic](https://github.com/pangeneral/Androlic)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issta/PanCYMYZ19.html?view=bibtex)]
+[[PDF](papers/cbq/ISSTA2019%20Androlic-%20An%20Extensible%20Flow%2C%20Context%2C%20Object%2C%20Field%2C%20and%20Path-Sensitive%20Static%20Analysis%20Framework%20for%20Android.pdf)] [[Slides](papers/Slides-20190717-ISSTA-Demo.pdf)] [[Project of Androlic](https://github.com/pangeneral/Androlic)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issta/PanCYMYZ19.html?view=bibtex)]
