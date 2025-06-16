@@ -1,6 +1,8 @@
 ## 崔保全 CUI Baoquan  
 <!--  [[PDF]()] [[Slides]()] [[Project ]()] [[Bibtex Cited Format]()]  -->
-cuibq@ios.ac.cn 
+cuibq@ios.ac.cn   
+【CUI Baoquan[@dblp](https://dblp.org/pid/244/6492.html)】    
+【CUI Baoquan[@Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=THmbl-IAAAAJ)】 
 
 ## 程序分析与软件测试 
 ## Program Analysis and Software Testing  
