@@ -13,17 +13,17 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ###  2025
-[C10]  **Baoquan Cui**, Rong Qu, Zhen Tang, Jian Zhang:  
+[C10 ICSE2025]  **Baoquan Cui**, Rong Qu, Zhen Tang, Jian Zhang:  
 Static Analysis of Remote Procedure Call in Java Programs. ICSE 2025  
  [[PDF-PrePrint](papers/cbq/ICSE2025-preprint%20RPC.pdf)] [[Slides](papers/SlidesICSE2025RPC.pdf)] [[Project of RPCBridge](https://github.com/cuixiaoyiyi/RPCBridge)] [[Bibtex Cited Format None]()] 
 
 
 ###  2024
-[C9]  **Baoquan Cui**, Jiwei Yan, Jian Zhang:  
+[C9 ISSTA2024]  **Baoquan Cui**, Jiwei Yan, Jian Zhang:  
 DMMPP: Constructing Dummy Main Methods for Android Apps with Path-Sensitive Predicates. ISSTA 2024: 1826-1830   
 [[PDF](papers/cbq/ISSTA2024-DMMPP%20%20Constructing%20Dummy%20Main%20Methods%20for%20Android%20Apps%20with%20Path-Sensitive%20Predicates.pdf)] [[Slides](papers/Slides2024ISSTA-DMMPP.pdf)] [[Project of DMMPP](https://github.com/cuixiaoyiyi/DMMPP)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issta/CuiY024.html?view=bibtex)]
 ###  2023
-[C8] **Baoquan Cui**, Miaomiao Wang, Chi Zhang, Jiwei Yan, Jun Yan, Jian Zhang:  
+[C8 ASE2023] **Baoquan Cui**, Miaomiao Wang, Chi Zhang, Jiwei Yan, Jun Yan, Jian Zhang:  
 Detection of Java Basic Thread Misuses Based on Static Event Analysis. ASE 2023: 1049-1060  
 [[PDF](papers/cbq/ASE2023%20Detection%20of%20Java%20Basic%20Thread%20Misuses%20Based%20on%20Static%20Event%20Analysis.pdf)] [[Slides](papers/SlidesASE2023Thread.pdf)] [[Project of Leopard](https://github.com/cuixiaoyiyi/Leopard)] [[Bibtex Cited Format](https://dblp.org/rec/conf/kbse/CuiWZYYZ23.html?view=bibtex)]
 
@@ -33,7 +33,7 @@ PSMT: Satisfiability Modulo Theories Meets Probability Distribution. ASE 2023: 1
 [[PDF](papers/cbq/ASE2023%20PSMT%20Satisfiability%20Modulo%20Theories%20Meets%20Probability%20Distribution.pdf)] [[Slides](papers/SlidesASE2023PSMT.pdf)][[Bibtex Cited Format](https://dblp.org/rec/conf/kbse/JiaHMCLHMZ23.html?view=bibtex)]
 
 ###  2022
-[C6] Miaomiao Wang, **Baoquan Cui (Contributed Equally)**, Jiwei Yan, Jun Yan, Jian Zhang:  
+[C6 ISSRE2022] Miaomiao Wang, **Baoquan Cui (Contributed Equally)**, Jiwei Yan, Jun Yan, Jian Zhang:  
 String Test Data Generation for Java Programs. ISSRE 2022: 251-262  
 [[PDF](papers/cbq/ISSRE2022%20String_Test_Data_Generation_for_Java_Programs.pdf)] [[Slides](papers/Slides-ISSRE2022String.pdf)] [[Project of JustinStr](https://github.com/suoyi123wang/JustinStr)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issre/WangCYYZ22.html?view=bibtex)]
 
@@ -42,7 +42,7 @@ ExcePy: A Python Benchmark for Bugs with Python Built-in Types. SANER 2022: 856-
 [[PDF](papers/cbq/SANER2022%20ExcePy_A_Python_Benchmark_for_Bugs_with_Python_Built-in_Types.pdf)] [[Poster of ExcePy](papers/SlidesSANER2022ExecPy.pdf)][[Project of ExcePy](https://github.com/Stardust1225/ExcePy_Present)] [[Bibtex Cited Format](https://dblp.org/rec/conf/wcre/ZhangYYCYZ22.html?view=bibtex)]
 
 ###  2021 
-[C4] Qing Liu, Linjie Pan, **Baoquan Cui**, Jun Yan, Jian Zhang:  
+[C4 QRS2021] Qing Liu, Linjie Pan, **Baoquan Cui**, Jun Yan, Jian Zhang:  
 Dynamic Detection of AsyncTask Related Defects. QRS 2021: 357-366   
 [[PDF](papers/cbq/QRS2021%20Dynamic_Detection_of_AsyncTask_Related_Defects.pdf)] [[Bibtex Cited Format](https://dblp.org/rec/conf/qrs/LiuPCYZ21.html?view=bibtex)]
 
