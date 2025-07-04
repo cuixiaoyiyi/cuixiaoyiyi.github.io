@@ -15,7 +15,7 @@ zj@ios.ac.cn
 ###  2025
 [C10 ICSE2025]  **Baoquan Cui**, Rong Qu, Zhen Tang, Jian Zhang:  
 Static Analysis of Remote Procedure Call in Java Programs. ICSE 2025  
- [[PDF-PrePrint](papers/cbq/ICSE2025-preprint%20RPC.pdf)] [[Slides](papers/SlidesICSE2025RPC.pdf)] [[Project of RPCBridge](https://github.com/cuixiaoyiyi/RPCBridge)] [[Bibtex Cited Format None]()] 
+ [[PDF](papers/cbq/ICSE2025-preprint%20RPC.pdf)] [[Slides](papers/SlidesICSE2025RPC.pdf)] [[Project of RPCBridge](https://github.com/cuixiaoyiyi/RPCBridge)] [[Bibtex Cited ](https://dblp.org/rec/conf/icse/CuiQTZ25.html?view=bibtex)] 
 
 
 ###  2024
