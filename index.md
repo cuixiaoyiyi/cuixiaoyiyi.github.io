@@ -13,9 +13,12 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ###  2025
+[C11 QRS2025]  Liwei Zhang, **Baoquan Cui**, Xutong Ma, Jian Zhang:  
+[[PDF-Preprint](papers/cbq/QRS2025MEMs-Preprint.pdf)] [[Slides](papers/SlidesQRS2025MEMs.pdf)] [[None Bibtex Cited Format](None)] 
+
 [C10 ICSE2025]  **Baoquan Cui**, Rong Qu, Zhen Tang, Jian Zhang:  
 Static Analysis of Remote Procedure Call in Java Programs. ICSE 2025  
- [[PDF](papers/cbq/ICSE2025-preprint%20RPC.pdf)] [[Slides](papers/SlidesICSE2025RPC.pdf)] [[Project of RPCBridge](https://github.com/cuixiaoyiyi/RPCBridge)] [[Bibtex Cited ](https://dblp.org/rec/conf/icse/CuiQTZ25.html?view=bibtex)] 
+ [[PDF](papers/cbq/ICSE2025-preprint%20RPC.pdf)] [[Slides](papers/SlidesICSE2025RPC.pdf)] [[Project of RPCBridge](https://github.com/cuixiaoyiyi/RPCBridge)] [[Bibtex Cited Format](https://dblp.org/rec/conf/icse/CuiQTZ25.html?view=bibtex)] 
 
 
 ###  2024
