@@ -14,7 +14,7 @@ zj@ios.ac.cn
 
 ###  2025
 [C11 QRS2025]  Liwei Zhang, **Baoquan Cui**, Xutong Ma, Jian Zhang:  
-[[PDF-Preprint](papers/cbq/QRS2025MEMs-Preprint.pdf)] [[Slides](papers/SlidesQRS2025MEMs.pdf)] [[None Bibtex Cited Format](None)] 
+[[PDF-Preprint](papers/cbq/QRS2025MEMs-Preprint.pdf)] [[Slides](papers/SlidesQRS2025MEMs.pdf)] [[Bibtex Cited Format](https://dblp.org/rec/journals/corr/abs-2505-07208.html?view=bibtex)] 
 
 [C10 ICSE2025]  **Baoquan Cui**, Rong Qu, Zhen Tang, Jian Zhang:  
 Static Analysis of Remote Procedure Call in Java Programs. ICSE 2025  
