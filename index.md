@@ -63,3 +63,53 @@ Static asynchronous component misuse detection for Android applications. ESEC/SI
 [C1] Linjie Pan, **Baoquan Cui**, Jiwei Yan, Xutong Ma, Jun Yan, Jian Zhang:  
 Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android. ISSTA 2019: 394-397   
 [[PDF](papers/cbq/ISSTA2019%20Androlic-%20An%20Extensible%20Flow%2C%20Context%2C%20Object%2C%20Field%2C%20and%20Path-Sensitive%20Static%20Analysis%20Framework%20for%20Android.pdf)] [[Slides](papers/Slides-20190717-ISSTA-Demo.pdf)] [[Project of Androlic](https://github.com/pangeneral/Androlic)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issta/PanCYMYZ19.html?view=bibtex)]
+
+# 工具找到的缺陷列表
+Lepoard (Confirmed: 66; Fixed: 22)  [[Project of Leopard](https://github.com/cuixiaoyiyi/Leopard)]   
+Justin (26开源应用缺陷+2083企业应用缺陷)
+
+### By Lepoard (ASE2023)  
+|NO.|App|Fork|Star|#Download on GooglePaly |#Misuse (*Fixed)|Confirmed Issue Id|
+|-|-|-|-|-|-|-|
+|01|VocableTrainer|10|27|-|1|[93](https://github.com/0xpr03/VocableTrainer-Android/issues/93)|
+|02|toposuite|2|12|[5,000+](https://play.google.com/store/apps/details?id=ch.hgdev.toposuite)|4|[3](https://github.com/hgdev-ch/toposuite-android/issues/3)|
+|03|APK-Explorer-Editorcite | 53 | 278 |[100+](https://play.google.com/store/apps/details?id=com.apk.explorer)  |1*|[29](https://github.com/apk-editor/APK-Explorer-Editor/issues/29) |
+|04|LRC-Editorcite | 9 | 43 |[100,000+](https://play.google.com/store/apps/details?id=com.cg.lrceditor)| 3 |[35](https://github.com/Spikatrix/LRC-Editor/issues/35) |
+|05|Nextcloudcite | 1.5K | 3.2K |[100,000+](https://play.google.com/store/apps/details?id=com.nextcloud.client)| 7 |[10691](https://github.com/nextcloud/android/issues/10691) |
+|06|TRIfAcite | 52 | 220 | -| 14 |[382](https://github.com/twireapp/Twire/issues/382) |
+|07|AppManagercite | 174 | 2.3K | -| 1 |[854](https://github.com/MuntashirAkon/AppManager/issues/854) |
+|08|Siteswap Generatorcite | 3 | 13 | [1,000+](https://play.google.com/store/apps/details?id=namlit.siteswapgenerator) | 9 |[55](https://github.com/namlit/siteswap_generator/issues/55) |
+|09|TC Slimcite | 66 | 1.1K | [10,000+](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play) | 2 |[336](https://github.com/TrackerControl/tracker-control-android/issues/336) |
+|10|blabber.imcite | 16 | 41 | - | 6* |[674](https://codeberg.org/kriztan/blabber.im/issues/674) |
+|11|OSMDashboardcite | 8 | 52 | [500+](https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin) | 1* |[169](https://github.com/OpenTracksApp/OSMDashboard/issues/169) |
+|12|Ghost Commander | - | - | [1,000,000+](https://play.google.com/store/apps/details?id=com.ghostsq.commander) | 1* |[93](https://sourceforge.net/p/ghostcommander/bugs/93/) |
+|13|Offline Puzzle Solver | - | 1 | - | 1* |[1](https://gitlab.com/20kdc/offline-puzzle-solver/issues/1) |
+|14|FitoTrack | 49 | 161 | [5,000+](https://play.google.com/store/apps/details?id=de.tadris.fitness) | 3 | [400](https://codeberg.org/jannis/FitoTrack/issues/400) |
+|15|Conversations | 1.3K | 4.2K | [100,000+](https://play.google.com/store/apps/details?id=eu.siacs.conversations) | 2* | [4366](https://github.com/iNPUTmice/Conversations/issues/4366)|
+|16|monocles chat | 7 | 10 | - | 6* | [44](https://codeberg.org/Arne/monocles_chat/issues/44) |
+|17|ccgt| 4 | 11 | - | 1 | [7](https://github.com/pterodactylus42/ccgt/issues/7)  |
+|18|Notes| 121 | 769 | 10K+ | 1* | [1574](https://github.com/nextcloud/notes-android/issues/1574)  |
+|-|Total |-|-|-|66(Fixed 22)|- 
+
+### By Justin （开源应用）
+| 程序 | 版本 | 描述 | Star | 缺陷数量 | 缺陷ID(s) |
+|------|------|------|------|----------|-----------|
+| commons-cli | 1.0 | 命令行参数解析工具 | 330 | 1 | commit(*55886e) |
+| groovy | 2.5.6 | 敏捷开发语言包 | 16.5k | 1 | pull(1643) |
+| libgdx | 1.10.0 | Java 游戏开发框架 | 22.8k | 1 | 6709 |
+| hutool | 5.7.15 | Java 工具类库 | 28.5k | 4 | 1975,1982,1980,1981 (CVE-2025-52111, 52112) |
+| asm | 5.1 | Java字节码操作框架 | 16.5k | 1 | mergerequests(330) |
+| openjdk | 8u292<br>7u75<br><br>12.0.2 | 开源 Java 开发工具包 | 18.5k | 17 | commit(*12bd18, *a404a9, *ba7d11), <br>8278186,8278993,8279129,8279128,<br>8279198,8279218,8279336, 8279341,<br>8279342, 8279422,8279423,8279424,<br>8279362 |
+| bishengjdk | 1.8 | OpenJDK 定制版本 | 502 | 1 | I4MWI1 |
+| 共计 | | | | 26 | |
+
+### By Justin （企业应用）
+| 被测软件描述 | 有效缺陷 | 被测软件描述 | 有效缺陷 |
+|--------------|----------|--------------|----------|
+| 开源加密工具包 | 20 | 格式化及文件操作等工具包 | 332 |
+| 验证集日期处理等工具包 | 71 | 集合及反射等常用类库 | 184 |
+| 智能开发平台基础类库 | 97 | 医疗质量管理系统管理模块 | 200 |
+| JSON及数值计算等基础类库 | 511 | 知识库系统 | 11 |
+| Java 开发基础类库 | 211 | java.lang 增强工具包 | 94 |
+| 物流供应链管理 | 352 | - | -|
+| **共计** | **2,083 个有效缺陷** | | |
