@@ -12,6 +12,19 @@ zj@ios.ac.cn
 【中国科学院大学[ZJ@UCAS](https://people.ucas.ac.cn/~0000093)】   
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
+在投论文  
+Realistic Test Data Generation for Java Programs Guided by Annotations (ISSTA2026, 在投)  
+From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool Misuses in Java Programs (ISSTA2026, 在投)  
+Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection (ISSTA2026在投)  
+Solving String Split Constraints via Structural Relaxation (ISSTA2026在投)  
+Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement (ISSTA2026在投)  
+Efficient Code Analysis via Graph-Guided Large Language Models (ICML2026在投)  
+Revisiting Causal Graph Neural Networks: An Atomic Theoretical Framework for Valid Inference (ICML2026在投)  
+Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning Frameworks (IJCAI2026在投)  
+SCOPE++: A Scope-aware Mutation Testing Framework for C++ Compilers (TECS期刊在投)  
+
+
+
 ###  2025
 [C11 QRS2025]  Liwei Zhang, **Baoquan Cui**, Xutong Ma, Jian Zhang:  
 [[PDF-Preprint](papers/cbq/QRS2025MEMs-Preprint.pdf)] [[Slides](papers/SlidesQRS2025MEMs.pdf)] [[Bibtex Cited Format](https://dblp.org/rec/journals/corr/abs-2505-07208.html?view=bibtex)] 
