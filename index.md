@@ -12,7 +12,7 @@ zj@ios.ac.cn
 【中国科学院大学[ZJ@UCAS](https://people.ucas.ac.cn/~0000093)】   
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
-## Onging  
+## Ongoing  
 Realistic Test Data Generation for Java Programs Guided by Annotations   
 From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool Misuses in Java Programs  
 Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
