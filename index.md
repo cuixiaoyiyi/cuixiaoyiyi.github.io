@@ -13,14 +13,34 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ## Ongoing  
-Realistic Test Data Generation for Java Programs Guided by Annotations   
-From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool Misuses in Java Programs  
-Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
-Solving String Split Constraints via Structural Relaxation  
-Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement   
+Hang Gao, Tao Peng, **Baoquan Cui**, Hong Huang, Fengge Wu, Zhao Junsuo, Jian Zhang  
 Efficient Code Analysis via Graph-Guided Large Language Models  
-Revisiting Causal Graph Neural Networks: An Atomic Theoretical Framework for Valid Inference  
+
+Hang Gao, Kunyu Li, jun Wang, **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu 
+Revisiting Causal Graph Neural Networks: An Atomic Theoretical Framework for Valid Inference
+
+**Baoquan Cui**, Hang Gao, Jian Zhang  
+Understanding and Static Misuse Detection of Java ThreadLocal 
+
+**Baoquan Cui**, Hang Gao, Jian Zhang   
+From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool Misuses in Java Programs 
+
+**Baoquan Cui**, Hang Gao, Jian Zhang   
+Specification-Aware Test Data Generation for Java Programs via Annotations  
+
+Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu   
+Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
+
+Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
+Solving String Split Constraints via Structural Relaxation  
+
+Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
+Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement   
+
+Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
 Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning Frameworks  
+
+Rong Qu, **Baoquan Cui**, Jian Zhang  
 SCOPE++: A Scope-aware Mutation Testing Framework for C++ Compilers  
 
 
@@ -84,7 +104,7 @@ Justin (26开源应用缺陷+2083企业应用缺陷) [[Project of JustinStr](htt
 PoolGuard (Confirmed: 50; Fixed: 4)
 
 ### By Lepoard (线程缺陷 ASE2023)  
-|NO.|App|Fork|Star|#Download on GooglePaly |#Misuse (*Fixed)|Confirmed Issue Id|
+|NO.|App|Fork|Star|#Download on GooglePaly |#Misuse (*Fixed)|Confirmed Issue Id|  
 |-|-|-|-|-|-|-|
 |01|VocableTrainer|10|27|-|1|[93](https://github.com/0xpr03/VocableTrainer-Android/issues/93)|
 |02|toposuite|2|12|[5,000+](https://play.google.com/store/apps/details?id=ch.hgdev.toposuite)|4|[3](https://github.com/hgdev-ch/toposuite-android/issues/3)|
