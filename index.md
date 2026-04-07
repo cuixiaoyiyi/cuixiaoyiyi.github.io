@@ -28,6 +28,9 @@ From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool 
 **Baoquan Cui**, Hang Gao, Jian Zhang   
 Specification-Aware Test Data Generation for Java Programs via Annotations  
 
+**Baoquan Cui**, Hang Gao, Jian Zhang  
+Constructing Precise Dummy Main Methods for Android via Hierarchical Lifecycle Modeling
+
 Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu   
 Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
 
