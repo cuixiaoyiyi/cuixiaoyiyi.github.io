@@ -13,33 +13,34 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ## Ongoing  
+- **Baoquan Cui**, Shihao Zhu, Hang Gao, Jian Zhang  
+ An Empirical Study of Safety Failures in Tool-Using LLM Agents 
 
-
-Hang Gao, Kunyu Li, jun Wang, **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
+- Hang Gao, Kunyu Li, jun Wang, **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
 Revisiting Causal Graph Neural Networks: An Atomic Theoretical Framework for Valid Inference
 
-**Baoquan Cui**, Hang Gao, Jian Zhang  
+- **Baoquan Cui**, Hang Gao, Jian Zhang  
 Understanding and Static Misuse Detection of Java ThreadLocal 
 
-**Baoquan Cui**, Hang Gao, Jian Zhang   
+- **Baoquan Cui**, Hang Gao, Jian Zhang   
 From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool Misuses in Java Programs 
 
-**Baoquan Cui**, Hang Gao, Jian Zhang   
+- **Baoquan Cui**, Hang Gao, Jian Zhang   
 Specification-Aware Test Data Generation for Java Programs via Annotations  
 
-**Baoquan Cui**, Hang Gao, Jian Zhang  
+- **Baoquan Cui**, Hang Gao, Jian Zhang  
 Constructing Precise Dummy Main Methods for Android via Hierarchical Lifecycle Modeling
 
-Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu   
+- Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu   
 Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
 
-Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
+- Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
 Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement   
 
-Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
+- Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
 Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning Frameworks  
 
-Rong Qu, **Baoquan Cui**, Jian Zhang  
+- Rong Qu, **Baoquan Cui**, Jian Zhang  
 SCOPE++: A Scope-aware Mutation Testing Framework for C++ Compilers  
 
 ###  2026 
