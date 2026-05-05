@@ -208,3 +208,64 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 44 | [NativeStackBlur](https://github.com/Commit451/NativeStackBlur) | 100 | 500 | 1 (0) | 11 |
 | 45 | [gRPC Java](https://github.com/grpc/grpc-java) | 10.5k | 40k | 1 (0) | 12601 |
 | **Total** | - | - | - | **50 (5)** | - |
+
+### By TLDoctor（ThreadLocal缺陷）
+
+| NO. | Project | Fork | Star | # Misuse (*Fixed) | Confirmed Issue Id |
+| ---: | --- | ---: | ---: | ---: | --- |
+| 1 | [quickfix-j/quickfixj](https://github.com/quickfix-j/quickfixj) | 661 | 1.1k | 1 (1) | [#1137](https://github.com/quickfix-j/quickfixj/issues/1137) |
+| 2 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | 104 | 648 | 1 (1) | [#718](https://github.com/redis/redis-om-spring/issues/718) |
+| 3 | [ben-manes/caffeine](https://github.com/ben-manes/caffeine) | 1.7k | 17.6k | 1 (1) | [#1944](https://github.com/ben-manes/caffeine/issues/1944) |
+| 4 | [apache/karaf](https://github.com/apache/karaf) | 663 | 708 | 1 (0) | [#2278](https://github.com/apache/karaf/issues/2278) |
+| 5 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 1.1k | 4.8k | 1 (0) | [#7184](https://github.com/micrometer-metrics/micrometer/issues/7184) |
+| 6 | [neo4j/neo4j-ogm](https://github.com/neo4j/neo4j-ogm) | 166 | 356 | 1 (1) | [#1395](https://github.com/neo4j/neo4j-ogm/issues/1395) |
+| 7 | [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | 2.2k | 2.6k | 1 (1) | [#48018](https://github.com/Azure/azure-sdk-for-java/issues/48018) |
+| 8 | [togglz/togglz](https://github.com/togglz/togglz) | 261 | 1k | 1 (1) | [#1344](https://github.com/togglz/togglz/issues/1344) |
+| 9 | [vsilaev/tascalate-javaflow](https://github.com/vsilaev/tascalate-javaflow) | 7 | 89 | 1 (1) | [#15](https://github.com/vsilaev/tascalate-javaflow/issues/15) |
+| 10 | [spotify-web-api-java/spotify-web-api-java](https://github.com/spotify-web-api-java/spotify-web-api-java) | 289 | 1.1k | 1 (1) | [#450](https://github.com/spotify-web-api-java/spotify-web-api-java/issues/450) |
+| 11 | [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) | 688 | 5.3k | 2 (0) | [#1109](https://github.com/LWJGL/lwjgl3/issues/1109), [#169](https://github.com/LWJGL/lwjgl3/issues/169) |
+| 12 | [DataDog/java-dogstatsd-client](https://github.com/DataDog/java-dogstatsd-client) | 107 | 185 | 1 (0) | [#292](https://github.com/DataDog/java-dogstatsd-client/issues/292) |
+| 13 | [seasarorg/dbflute](https://github.com/seasarorg/dbflute) | 6 | 22 | 1 (1) | [#8](https://github.com/seasarorg/dbflute/issues/8) |
+| 14 | [apache/poi](https://github.com/apache/poi) | 821 | 2.2k | 1 (1) | [#1015](https://github.com/apache/poi/issues/1015) |
+| 15 | [influxdata/influxdb-java](https://github.com/influxdata/influxdb-java) | 473 | 1.2k | 1 (1) | [#1019](https://github.com/influxdata/influxdb-java/issues/1019) |
+| 16 | [mybatis/redis-cache](https://github.com/mybatis/redis-cache) | 212 | 407 | 1 (1) | [#351](https://github.com/mybatis/redis-cache/issues/351) |
+| 17 | [apache/bookkeeper](https://github.com/apache/bookkeeper) | 962 | 2k | 1 (0) | [#4714](https://github.com/apache/bookkeeper/issues/4714) |
+| 18 | [crotwell/seisFile](https://github.com/crotwell/seisFile) | 20 | 35 | 1 (1) | [#41](https://github.com/crotwell/seisFile/issues/41) |
+| 19 | [apache/iceberg](https://github.com/apache/iceberg) | 3.1k | 8.7k | 1 (1) | [#15284](https://github.com/apache/iceberg/issues/15284) |
+| 20 | [cadence-workflow/cadence-java-client](https://github.com/cadence-workflow/cadence-java-client) | 121 | 148 | 1 (0) | [#1047](https://github.com/cadence-workflow/cadence-java-client/issues/1047) |
+| 21 | [reportportal/client-java](https://github.com/reportportal/client-java) | 29 | 25 | 1 (0) | [#314](https://github.com/reportportal/client-java/issues/314) |
+| 22 | [duzechao/OKHttpUtils](https://github.com/duzechao/OKHttpUtils) | 82 | 286 | 1 (0) | [#10](https://github.com/duzechao/OKHttpUtils/issues/10) |
+| 23 | [cglib/cglib](https://github.com/cglib/cglib) | 886 | 4.9k | 1 (0) | [#232](https://github.com/cglib/cglib/issues/232) |
+| 24 | [beanshell/beanshell](https://github.com/beanshell/beanshell) | 184 | 930 | 1 (0) | [#785](https://github.com/beanshell/beanshell/issues/785) |
+| 25 | [Netflix/Hystrix](https://github.com/Netflix/Hystrix) | 4.7k | 24.5k | 1 (0) | [#2117](https://github.com/Netflix/Hystrix/issues/2117) |
+| 26 | [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 10.7k | 33.7k | 1 (0) | [#1848](https://github.com/Blankj/AndroidUtilCode/issues/1848) |
+| 27 | [square/reader-sdk-flutter-plugin](https://github.com/square/reader-sdk-flutter-plugin) | 31 | 89 | 1 (0) | [#122](https://github.com/square/reader-sdk-flutter-plugin/issues/122) |
+| 28 | [jitsi/jitsi-utils](https://github.com/jitsi/jitsi-utils) | 38 | 19 | 1 (0) | [#155](https://github.com/jitsi/jitsi-utils/issues/155) |
+| 29 | [h2database/h2database](https://github.com/h2database/h2database) | 1.3k | 4.6k | 2 (0) | [#4326](https://github.com/h2database/h2database/issues/4326), [#4333](https://github.com/h2database/h2database/issues/4333) |
+| 30 | [apache/shiro](https://github.com/apache/shiro) | 2.3k | 4.4k | 1 (0) | [#2560](https://github.com/apache/shiro/issues/2560) |
+| 31 | [dcm4che/dcm4che](https://github.com/dcm4che/dcm4che) | 691 | 1.4k | 1 (0) | [#1560](https://github.com/dcm4che/dcm4che/issues/1560) |
+| 32 | [karatelabs/karate](https://github.com/karatelabs/karate) | 2k | 8.8k | 1 (0) | [#2745](https://github.com/karatelabs/karate/issues/2745) |
+| 33 | [scanban/traceragent](https://github.com/scanban/traceragent) | 0 | 1 | 1 (0) | [#1](https://github.com/scanban/traceragent/issues/1) |
+| 34 | [eclipse-ee4j/glassfish](https://github.com/eclipse-ee4j/glassfish) | 170 | 435 | 1 (0) | [#25932](https://github.com/eclipse-ee4j/glassfish/issues/25932) |
+| 35 | [apache/ignite](https://github.com/apache/ignite) | 1.9k | 5.1k | 1 (0) | [#12771](https://github.com/apache/ignite/issues/12771) |
+| 36 | [glowroot/glowroot](https://github.com/glowroot/glowroot) | 333 | 1.3k | 1 (0) | [#1162](https://github.com/glowroot/glowroot/issues/1162) |
+| 37 | [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) | 78 | 149 | 1 (0) | [#381](https://github.com/elastic/ecs-logging-java/issues/381) |
+| 38 | [apache/parquet-java](https://github.com/apache/parquet-java) | 1.5k | 3k | 1 (1) | [#3398](https://github.com/apache/parquet-java/issues/3398) |
+| 39 | [carnellj/spmia-chapter5](https://github.com/carnellj/spmia-chapter5) | 99 | 33 | 1 (0) | [#4](https://github.com/carnellj/spmia-chapter5/issues/4) |
+| 40 | [hazelcast/hazelcast-code-samples](https://github.com/hazelcast/hazelcast-code-samples) | 604 | 559 | 1 (0) | [#763](https://github.com/hazelcast/hazelcast-code-samples/issues/763) |
+| 41 | [patrickfav/armadillo](https://github.com/patrickfav/armadillo) | 53 | 308 | 1 (0) | [#58](https://github.com/patrickfav/armadillo/issues/58) |
+| 42 | [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) | 4.4k | 17.3k | 1 (0) | [#7031](https://github.com/baomidou/mybatis-plus/issues/7031) |
+| 43 | [google/guice](https://github.com/google/guice) | 1.7k | 12.7k | 1 (0) | [#1929](https://github.com/google/guice/issues/1929) |
+| 44 | [google/allocation-instrumenter](https://github.com/google/allocation-instrumenter) | 88 | 489 | 1 (0) | [#60](https://github.com/google/allocation-instrumenter/issues/60) |
+| 45 | [kabutz/javaspecialists](https://github.com/kabutz/javaspecialists) | 33 | 147 | 1 (0) | [#60](https://github.com/kabutz/javaspecialists/issues/60) |
+| 46 | [Nike-Inc/wingtips](https://github.com/Nike-Inc/wingtips) | 65 | 332 | 1 (0) | [#141](https://github.com/Nike-Inc/wingtips/issues/141) |
+| 47 | [kofemann/vfs4j](https://github.com/kofemann/vfs4j) | 3 | 13 | 1 (0) | [#8](https://github.com/kofemann/vfs4j/issues/8) |
+| 48 | [graphql-java/java-dataloader](https://github.com/graphql-java/java-dataloader) | 97 | 524 | 1 (0) | [#266](https://github.com/graphql-java/java-dataloader/issues/266) |
+| 49 | [alibaba/fastjson2](https://github.com/alibaba/fastjson2) | 554 | 4.3k | 1 (0) | [#3995](https://github.com/alibaba/fastjson2/issues/3995) |
+| 50 | [alibaba/DataX](https://github.com/alibaba/DataX) | 5.7k | 17.1k | 1 (0) | [#2346](https://github.com/alibaba/DataX/issues/2346) |
+| 51 | [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) | 311 | 2.9k | 1 (0) | [#1495](https://github.com/jobrunr/jobrunr/issues/1495) |
+| 52 | [sumanentc/multitenant](https://github.com/sumanentc/multitenant) | 82 | 122 | 1 (0) | [#13](https://github.com/sumanentc/multitenant/issues/13) |
+| 53 | [shevek/parallelgzip](https://github.com/shevek/parallelgzip) | 7 | 59 | 1 (0) | [#13](https://github.com/shevek/parallelgzip/issues/13) |
+| 54 | [lmdbjava/lmdbjava](https://github.com/lmdbjava/lmdbjava) | 126 | 870 | 1 (0) | [#284](https://github.com/lmdbjava/lmdbjava/issues/284) |
+| 55 | [UniTime/unitime](https://github.com/UniTime/unitime) | 193 | 331 | 1 (0) | [#220](https://github.com/UniTime/unitime/issues/220) |
+| **Total** | - | - | - | **57 (15)** | - |
