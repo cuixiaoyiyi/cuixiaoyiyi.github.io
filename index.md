@@ -76,7 +76,7 @@ PSMT: Satisfiability Modulo Theories Meets Probability Distribution. ASE 2023: 1
 [[PDF](papers/cbq/ASE2023%20PSMT%20Satisfiability%20Modulo%20Theories%20Meets%20Probability%20Distribution.pdf)] [[Slides](papers/SlidesASE2023PSMT.pdf)][[Bibtex Cited Format](https://dblp.org/rec/conf/kbse/JiaHMCLHMZ23.html?view=bibtex)]
 
 ###  2022
-[C6 ISSRE2022] Miaomiao Wang, **Baoquan Cui (Contributed Equally)**, Jiwei Yan, Jun Yan, Jian Zhang:  
+[C6 ISSRE2022] Miaomiao Wang, **Baoquan Cui (Co-first authors)**, Jiwei Yan, Jun Yan, Jian Zhang:  
 String Test Data Generation for Java Programs. ISSRE 2022: 251-262  
 [[PDF](papers/cbq/ISSRE2022%20String_Test_Data_Generation_for_Java_Programs.pdf)] [[Slides](papers/Slides-ISSRE2022String.pdf)] [[Project of JustinStr](https://github.com/suoyi123wang/JustinStr)] [[Bibtex Cited Format](https://dblp.org/rec/conf/issre/WangCYYZ22.html?view=bibtex)]
 
