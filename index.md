@@ -44,7 +44,7 @@ Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning
 SCOPE++: A Scope-aware Mutation Testing Framework for C++ Compilers  
 
 ###  2026 
-[C13 ICML2026] Hang Gao, Tao Peng, **Baoquan Cui**, Hong Huang, Fengge Wu, Zhao Junsuo, Jian Zhang  
+[C13 ICML2026] Hang Gao, Tao Peng, **Baoquan Cui (Corresponding Author)**, Hong Huang, Fengge Wu, Zhao Junsuo, Jian Zhang  
 Efficient Code Analysis via Graph-Guided Large Language Models (Accepted [OpenReview](https://openreview.net/forum?id=GNieZ8Z5V5))  
 
 [C12 ISSTA2026] Rui Han, Ziheng Wang,  **Baoquan Cui**, Yuhang Dong, Fuqi Jia, Feifei Ma, Jian Zhang  
