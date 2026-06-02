@@ -216,7 +216,7 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 1 | [quickfix-j/quickfixj](https://github.com/quickfix-j/quickfixj) | 661 | 1.1k | 1 (1) | [#1137](https://github.com/quickfix-j/quickfixj/issues/1137) |
 | 2 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | 104 | 648 | 1 (1) | [#718](https://github.com/redis/redis-om-spring/issues/718) |
 | 3 | [ben-manes/caffeine](https://github.com/ben-manes/caffeine) | 1.7k | 17.6k | 1 (1) | [#1944](https://github.com/ben-manes/caffeine/issues/1944) |
-| 4 | [apache/karaf](https://github.com/apache/karaf) | 663 | 708 | 1 (0) | [#2278](https://github.com/apache/karaf/issues/2278) |
+| 4 | [apache/karaf](https://github.com/apache/karaf) | 663 | 708 | 1 (1) | [#2278](https://github.com/apache/karaf/issues/2278) |
 | 5 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 1.1k | 4.8k | 1 (0) | [#7184](https://github.com/micrometer-metrics/micrometer/issues/7184) |
 | 6 | [neo4j/neo4j-ogm](https://github.com/neo4j/neo4j-ogm) | 166 | 356 | 1 (1) | [#1395](https://github.com/neo4j/neo4j-ogm/issues/1395) |
 | 7 | [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | 2.2k | 2.6k | 1 (1) | [#48018](https://github.com/Azure/azure-sdk-for-java/issues/48018) |
@@ -244,12 +244,12 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 29 | [h2database/h2database](https://github.com/h2database/h2database) | 1.3k | 4.6k | 2 (0) | [#4326](https://github.com/h2database/h2database/issues/4326), [#4333](https://github.com/h2database/h2database/issues/4333) |
 | 30 | [apache/shiro](https://github.com/apache/shiro) | 2.3k | 4.4k | 1 (0) | [#2560](https://github.com/apache/shiro/issues/2560) |
 | 31 | [dcm4che/dcm4che](https://github.com/dcm4che/dcm4che) | 691 | 1.4k | 1 (0) | [#1560](https://github.com/dcm4che/dcm4che/issues/1560) |
-| 32 | [karatelabs/karate](https://github.com/karatelabs/karate) | 2k | 8.8k | 1 (0) | [#2745](https://github.com/karatelabs/karate/issues/2745) |
+| 32 | [karatelabs/karate](https://github.com/karatelabs/karate) | 2k | 8.8k | 1 (1) | [#2745](https://github.com/karatelabs/karate/issues/2745) |
 | 33 | [scanban/traceragent](https://github.com/scanban/traceragent) | 0 | 1 | 1 (0) | [#1](https://github.com/scanban/traceragent/issues/1) |
 | 34 | [eclipse-ee4j/glassfish](https://github.com/eclipse-ee4j/glassfish) | 170 | 435 | 1 (0) | [#25932](https://github.com/eclipse-ee4j/glassfish/issues/25932) |
 | 35 | [apache/ignite](https://github.com/apache/ignite) | 1.9k | 5.1k | 1 (0) | [#12771](https://github.com/apache/ignite/issues/12771) |
 | 36 | [glowroot/glowroot](https://github.com/glowroot/glowroot) | 333 | 1.3k | 1 (0) | [#1162](https://github.com/glowroot/glowroot/issues/1162) |
-| 37 | [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) | 78 | 149 | 1 (0) | [#381](https://github.com/elastic/ecs-logging-java/issues/381) |
+| 37 | [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) | 78 | 149 | 1 (1) | [#381](https://github.com/elastic/ecs-logging-java/issues/381) |
 | 38 | [apache/parquet-java](https://github.com/apache/parquet-java) | 1.5k | 3k | 1 (1) | [#3398](https://github.com/apache/parquet-java/issues/3398) |
 | 39 | [carnellj/spmia-chapter5](https://github.com/carnellj/spmia-chapter5) | 99 | 33 | 1 (0) | [#4](https://github.com/carnellj/spmia-chapter5/issues/4) |
 | 40 | [hazelcast/hazelcast-code-samples](https://github.com/hazelcast/hazelcast-code-samples) | 604 | 559 | 1 (0) | [#763](https://github.com/hazelcast/hazelcast-code-samples/issues/763) |
@@ -268,4 +268,5 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 53 | [shevek/parallelgzip](https://github.com/shevek/parallelgzip) | 7 | 59 | 1 (0) | [#13](https://github.com/shevek/parallelgzip/issues/13) |
 | 54 | [lmdbjava/lmdbjava](https://github.com/lmdbjava/lmdbjava) | 126 | 870 | 1 (0) | [#284](https://github.com/lmdbjava/lmdbjava/issues/284) |
 | 55 | [UniTime/unitime](https://github.com/UniTime/unitime) | 193 | 331 | 1 (0) | [#220](https://github.com/UniTime/unitime/issues/220) |
-| **Total** | - | - | - | **57 (15)** | - |
+| **Total** | - | - | - | **57 (18)** | - |
+
