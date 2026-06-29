@@ -301,7 +301,7 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 12 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 3k | 35.3k | 1 (0) | [#9918](https://github.com/stanfordnlp/dspy/issues/9918) | Closed; no public fixing PR/commit found |
 | 13 | [sweepai/sweep](https://github.com/sweepai/sweep) | 463 | 7.7k | 1 (0) | [#4177](https://github.com/sweepai/sweep/issues/4177) | - |
 | 14 | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) | 7.6k | 57.3k | 1 (0) | [#2270](https://github.com/zylon-ai/private-gpt/issues/2270) | - |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 9k | 50.8k | 1 (0) | [#30416](https://github.com/BerriAI/litellm/issues/30416) | - |
+| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 9k | 50.8k | 1 (0) | [#30416](https://github.com/BerriAI/litellm/issues/30416) | [PR #31487](https://github.com/BerriAI/litellm/pull/31487) |
 | 16 | [openai/swarm](https://github.com/openai/swarm) | 2.3k | 21.7k | 2 (0) | [#97](https://github.com/openai/swarm/issues/97), [#98](https://github.com/openai/swarm/issues/98) | [PR #100](https://github.com/openai/swarm/pull/100) for #98, open PR |
 | 17 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 11.2k | 100k | 1 (0) | [#5041](https://github.com/browser-use/browser-use/issues/5041) | [PR #5077](https://github.com/browser-use/browser-use/pull/5077), open PR |
 | 18 | [browser-use/workflow-use](https://github.com/browser-use/workflow-use) | 330 | 4.1k | 1 (0) | [#159](https://github.com/browser-use/workflow-use/issues/159) | - |
