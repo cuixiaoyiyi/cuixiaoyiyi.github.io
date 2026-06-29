@@ -307,7 +307,7 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 18 | [browser-use/workflow-use](https://github.com/browser-use/workflow-use) | 330 | 4.1k | 1 (0) | [#159](https://github.com/browser-use/workflow-use/issues/159) | - |
 | **Mode 2 Total** | - | - | - | **11 (0)** | - | - |
 | **Mode 3** | - | - | - | - | - | - |
-| 19 | [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) | 902 | 5.2k | 3 (0) | [#600](https://github.com/SWE-bench/SWE-bench/issues/600), [#601](https://github.com/SWE-bench/SWE-bench/issues/601), [#602](https://github.com/SWE-bench/SWE-bench/issues/602) | - |
+| 19 | [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) | 902 | 5.2k | 3 (0) | [#600](https://github.com/SWE-bench/SWE-bench/issues/600), [#601](https://github.com/SWE-bench/SWE-bench/issues/601), [#602](https://github.com/SWE-bench/SWE-bench/issues/602) | commit `6a99eb3`, [PR #606](https://github.com/SWE-bench/SWE-bench/pull/606) for #600, open PR; [PR #607](https://github.com/SWE-bench/SWE-bench/pull/607), commit `4635739` for #602; [PR #608](https://github.com/SWE-bench/SWE-bench/pull/608), for #601 | 
 | 20 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 9.9k | 78.1k | 1 (0) | [#14902](https://github.com/OpenHands/OpenHands/issues/14902) | [PR #14939](https://github.com/OpenHands/OpenHands/pull/14939), open PR |
 | 21 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 8.8k | 69k | 1 (0) | [#2073](https://github.com/FoundationAgents/MetaGPT/issues/2073) | - |
 | 22 | [agno-agi/agno](https://github.com/agno-agi/agno) | 5.6k | 40.9k | 1 (0) | [#8482](https://github.com/agno-agi/agno/issues/8482) | [PR #8500](https://github.com/agno-agi/agno/pull/8500), open PR |
