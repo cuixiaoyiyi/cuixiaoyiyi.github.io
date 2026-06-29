@@ -13,6 +13,10 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ## Ongoing  
+
+- Shihao Zhu, Jian Zhang, Yan Cai  
+Toxic Compilation in the Wild: An Empirical Study of Source-Artifact Integrity Failures 
+
 - **Baoquan Cui**, Shihao Zhu, Hang Gao, Jian Zhang  
  An Empirical Study of Safety Failures in Tool-Using LLM Agents 
 
@@ -29,13 +33,19 @@ From Thread to Pool: A Unified Formal Model and Static Detection of Thread Pool 
 Specification-Aware Test Data Generation for Java Programs via Annotations  
 
 - **Baoquan Cui**, Hang Gao, Jian Zhang  
-Constructing Precise Dummy Main Methods for Android via Hierarchical Lifecycle Modeling
+Lightweight and Lifecycle-Synchronized Dummy Main Construction for Android Static Analysis
+
+- Hang Gao,  **Baoquan Cui**, Fengge Wu, Jian Zhang   
+Heterogeneous Graph Representation Learning & LLM for Malicious Python Package Detection  
 
 - Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu   
 Breaking the Structural Symmetry: Semantic-Aware Graph Learning for Malicious Package Detection  
 
 - Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
-Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement   
+JINNSMT: Extracting and Tightening Java SMT Path Constraints with Checked LLM Semantics 
+
+- Rui Han, **Baoquan Cui**, Feifei Ma, Jian Zhang  
+Yog: Interface-Driven Test Generation for SMT Solvers via UF-Realization Refinement 
 
 - Hang Gao,  **Baoquan Cui**, Hong Huang, Fengge Wu, Jian Zhang, Huaping Liu  
 Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning Frameworks  
