@@ -305,5 +305,14 @@ PoolGuard (Confirmed: 50; Fixed: 4)
 | 24 | [stitionai/devika](https://github.com/stitionai/devika) | 2.6k | 19.5k | 1 (0) | [#717](https://github.com/stitionai/devika/issues/717) | - |
 | 25 | [letta-ai/letta](https://github.com/letta-ai/letta) | 2.5k | 23.5k | 1 (0) | [#3388](https://github.com/letta-ai/letta/issues/3388) | - |
 | **Mode 3 Total** | - | - | - | **9 (0)** | - | - |
-| **Total** | - | - | - | **30 (1)** | - | - |
-
+| **Mode 4** | - | - | - | - | - | - |
+| 26 | [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | 448 | 3.6k | 1 (0) | [#551](https://github.com/langchain-ai/langchain-mcp-adapters/issues/551) | - |
+| 27 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 7.6k | 50.4k | 2 (0) | [#22101](https://github.com/run-llama/llama_index/issues/22101), [#22140](https://github.com/run-llama/llama_index/issues/22140) | [PR #22110](https://github.com/run-llama/llama_index/pull/22110), commit `f2d3033` (open PR); [PR #22106](https://github.com/run-llama/llama_index/pull/22106), commit `a9b9fed` (open PR); [PR #22142](https://github.com/run-llama/llama_index/pull/22142), commit `461251f` (open PR) |
+| 28 | [agno-agi/agno](https://github.com/agno-agi/agno) | 5.6k | 40.9k | 3 (2) | [#8533](https://github.com/agno-agi/agno/issues/8533), [#8534](https://github.com/agno-agi/agno/issues/8534), [#8535](https://github.com/agno-agi/agno/issues/8535) | [PR #8539](https://github.com/agno-agi/agno/pull/8539), merged commit `7eae6e5`; [PR #8537](https://github.com/agno-agi/agno/pull/8537), merged commit `71a736a` |
+| 29 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 8.8k | 69.1k | 2 (0) | [#2078](https://github.com/FoundationAgents/MetaGPT/issues/2078), [#2079](https://github.com/FoundationAgents/MetaGPT/issues/2079) | - |
+| 30 | [langgenius/dify](https://github.com/langgenius/dify) | 23.1k | 147k | 3 (0) | [#37884](https://github.com/langgenius/dify/issues/37884), [#37885](https://github.com/langgenius/dify/issues/37885), [#37886](https://github.com/langgenius/dify/issues/37886) | [PR #37895](https://github.com/langgenius/dify/pull/37895), commit `033a998` (open PR) |
+| 31 | [letta-ai/letta](https://github.com/letta-ai/letta) | 2.5k | 23.5k | 1 (0) | [#3390](https://github.com/letta-ai/letta/issues/3390) | - |
+| 32 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 24.6k | 54k | 1 (0) | [#6567](https://github.com/FlowiseAI/Flowise/issues/6567) | [PR #6570](https://github.com/FlowiseAI/Flowise/pull/6570), commit `4bcb2b1` (open PR) |
+| 33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 9.3k | 150k | 1 (0) | [#13827](https://github.com/langflow-ai/langflow/issues/13827) | [PR #13849](https://github.com/langflow-ai/langflow/pull/13849) (open PR) |
+| **Mode 4 Total** | - | - | - | **14 (2)** | - | - |
+| **Total** | - | - | - | **44 (3)** | - | - |
