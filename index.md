@@ -13,6 +13,8 @@ zj@ios.ac.cn
 【计算机科学国家重点实验室[ZJ@SKLCS](https://lcs.ios.ac.cn/~zj/)】
 
 ## Ongoing  
+- **Baoquan Cui**,Jian Zhang  
+Linear Abstract Interpretation for Capability-Safe Agentic  Programs 
 
 - Shihao Zhu, Jian Zhang, Yan Cai  
 Toxic Compilation in the Wild: An Empirical Study of Source-Artifact Integrity Failures 
