@@ -56,6 +56,9 @@ Think in Graphs: Infrastructure and Benchmark for Large Language Model Reasoning
 SCOPE++: A Scope-aware Mutation Testing Framework for C++ Compilers  
 
 ###  2026 
+[C14 ASE2026]  **Baoquan Cui**, Yucheng Qiu, Rui Han, Hang Gao, Jian Zhang   
+From Thread to Pool: Modeling and Static Detection of Thread Pool Misuses in Java Programs (Accepted)  
+
 [C13 ICML2026] Hang Gao, Tao Peng, **Baoquan Cui (Corresponding Author)**, Hong Huang, Fengge Wu, Zhao Junsuo, Jian Zhang  
 Efficient Code Analysis via Graph-Guided Large Language Models (Accepted [OpenReview](https://openreview.net/forum?id=GNieZ8Z5V5))  
 
